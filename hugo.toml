@@ -1,0 +1,15 @@
+baseURL = "https://download.10douaris.top/"
+languageCode = "zh-cn"
+title = "下载中心"
+theme = "stack"
+
+[params]
+  mainSections = ["downloads"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "downloads"
+    name = "下载中心"
+    url = "/downloads/"
+    weight = 1
