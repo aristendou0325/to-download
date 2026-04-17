@@ -14,7 +14,8 @@ theme = "stack"
     url = "/downloads/"
     weight = 1
 
+  [[menu.main]]
   identifier = "blog"
   name = "返回博客"
   url = "https://10douaris.top/"
-  weight = 10
+  weight = 2
